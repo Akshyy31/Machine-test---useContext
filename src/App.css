@@ -1,0 +1,23 @@
+
+*{
+ margin: 0px;
+ box-sizing: border-box;
+}
+.cards-div{
+  display: flex;
+  flex-wrap: wrap;
+  background-color: rgb(75, 75, 75);
+}
+.cards{
+  margin: 20px;
+  border-radius: 10px;
+  text-align: center;
+  height: 200px;
+
+  background-color: rgb(219, 219, 219);
+  font-weight: 500;
+  font-size: 19px;
+}
+.text{
+  margin-top: 10px;
+}
